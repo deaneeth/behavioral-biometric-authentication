@@ -330,6 +330,29 @@ run('Plots.m')
 
 ---
 
+## 🤝 Contributing
+
+We welcome contributions from the community! Whether you're fixing bugs, adding features, improving documentation, or suggesting enhancements, your help is appreciated.
+
+### How to Contribute
+
+- 🐛 **Report Bugs:** Open an issue with detailed information
+- ✨ **Suggest Features:** Share your ideas for improvements
+- 💻 **Submit Code:** Fork, create a branch, and submit a pull request
+- 📖 **Improve Docs:** Help make documentation clearer and more comprehensive
+
+Please read our **[CONTRIBUTING.md](CONTRIBUTING.md)** for detailed guidelines on:
+- Code style and standards
+- Development workflow
+- Testing requirements
+- Pull request process
+- Community guidelines
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-orange.svg)](CONTRIBUTING.md)
+
+---
+
 ## 📄 License & Usage
 
 This is a research project. Feel free to use the code and methodology for educational purposes.
